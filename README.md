@@ -5,7 +5,7 @@ This project validates technical competencies in secure network access design, h
 
 ## 💻Environments and Technologies Used
 **Operating System Environment**: Red Hat Enterprise Linux 9.3 (RHEL)
-**Core Utilities Demanded*v: `ssh-keygen`, `ssh-copy-id`, OpenSSH Server (`sshd`), `dnf`, `timedatectl`, `systemctl`
+**Core Utilities Demanded**: `ssh-keygen`, `ssh-copy-id`, OpenSSH Server (`sshd`), `dnf`, `timedatectl`, `systemctl`
 
 ## 📋Objectives and Scenario
 The scenario models an infrastructure environment requiring secure multi-node communication, system daemon perimeter defense adjustments, software deployment, and clock synchronization baseline changes.
