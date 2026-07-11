@@ -68,7 +68,7 @@ Modify persistent daemon configuration files to drop obsolete authentication pat
 Leverage the package distribution engine to deploy active system binaries and realign timekeeper baselines.
 
 * Provision application packages from upstream software repositories
-   * dnf install -y zsh
+   * `dnf install -y zsh`
 
 
 <img width="884" height="691" alt="image" src="https://github.com/user-attachments/assets/1a62a659-d545-41da-b762-e70d691e6e46" />
@@ -85,7 +85,7 @@ Leverage the package distribution engine to deploy active system binaries and re
 
 Return to the workstation context and trigger the programmatic laboratory script to evaluate configuration alignment against technical constraints.  
 
-<img width="800" height="510" alt="image" src="https://github.com/user-attachments/assets/6fd86e8e-ac54-4ccf-a301-df367fad337d" />
+<img width="807" height="461" alt="image" src="https://github.com/user-attachments/assets/6303d2b9-6892-4d8d-b95a-bf66c1952976" />
 
 ---
 
@@ -94,4 +94,5 @@ Return to the workstation context and trigger the programmatic laboratory script
 
 De-provision local tracking mechanisms to return the deployment sandbox back to baseline conditions.  
 
-<img width="816" height="255" alt="image" src="https://github.com/user-attachments/assets/03bb5610-5340-4110-99ee-70c1caf1b74e" />
+<img width="816" height="255" alt="image" src="https://github.com/user-attachments/assets/ff71562f-52a7-4e5c-8962-5023f9e7cef9" />
+
