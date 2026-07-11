@@ -11,15 +11,15 @@ This project validates technical competencies in secure network access design, h
 The scenario models an infrastructure environment requiring secure multi-node communication, system daemon perimeter defense adjustments, software deployment, and clock synchronization baseline changes.
 
 ### Technical Specification Requirements:
-**Key Generation Routing**: Provision an unpassphrased SSH key pair explicitly mapped to file path `/home/student/.ssh/review3_key`. 
+* **Key Generation Routing**: Provision an unpassphrased SSH key pair explicitly mapped to file path `/home/student/.ssh/review3_key`. 
 
-**Cross-Node Trust Interconnection**: Authorize cross-node authentication paths to permit passwordless access from `serverb` into `servera`.  
+* **Cross-Node Trust Interconnection**: Authorize cross-node authentication paths to permit passwordless access from `serverb` into `servera`.  
 
-**Daemon Hardening Execution**: Modify OpenSSH directives to entirely bar administrative `root` connections and block all raw text password-based authentications on `serverb`. 
+* **Daemon Hardening Execution**: Modify OpenSSH directives to entirely bar administrative `root` connections and block all raw text password-based authentications on `serverb`. 
 
-**Software Provisioning**: Deploy the standard `zsh` package profile across the local environment.
+* **Software Provisioning**: Deploy the standard `zsh` package profile across the local environment.
 
-**Localization Realignment**: Enforce a geographic time zone shift updating the host context to `Asia/Kolkata`.
+* **Localization Realignment**: Enforce a geographic time zone shift updating the host context to `Asia/Kolkata`.
 
 ## 🛠️ High-Level Deployment and Configuration Steps
 
